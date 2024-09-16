@@ -12,7 +12,7 @@ Technologies Used in the Kitchen Safety System Project
 The kitchen safety system incorporates a combination of hardware and software technologies to detect gas leaks and fire, notify users, and activate safety mechanisms. The following key technologies were used:
 
 # CIRCUIT DIAGRAM
-!![My Project Logo](Untitleddesign.png)
+!![My Project Logo](ckt.png)
 
 
 **Microcontroller:** (Arduino)
