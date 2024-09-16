@@ -54,6 +54,9 @@ The system works in two key scenarios: gas leakage detection and fire detection.
 - The microcontroller activates the buzzer to sound an alarm and turns on the sprinkler motor to extinguish the fire.
 - Simultaneously, an SMS alert is sent to the user's mobile device.
 
+# PROJECT SNAP
+!![My Project Logo](a(1).png)
+
 
 
 # Testing and Results
@@ -66,7 +69,7 @@ The system was tested in controlled conditions to simulate gas leakage and fire.
 
 # Conclusion
 The Kitchen Safety System provides a comprehensive solution for detecting and responding to fire and gas leakage hazards in a kitchen environment. It helps reduce risks by notifying users of danger, providing real-time gas levels, and activating safety mechanisms such as the buzzer and sprinkler motor. Future improvements could include integrating IoT features for remote monitoring and control via a mobile app.
-## Screenshots
+
 
 
 
